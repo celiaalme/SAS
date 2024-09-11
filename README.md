@@ -27,9 +27,9 @@ To conduct the bussiness task correctly, we will be asked to follow a series of 
 ## PREREQUISITES
 To run the TSA Claims Data Analysis code, you need an active account for either [SAS® OnDemand for Academics](https://welcome.oda.sas.com) or [SAS® Viya](https://www.sas.com/en_au/software/viya.html). Also, you'll need to download some database files required for the program to run the code. To do so: 
 
-1. Download the Requirements.pdf, ClaimReport.pdf, TSAClaims2002_2017.csv and tsa.sas files and store them in a local folder.
+1. Download the Requirements.pdf, ClaimReports.pdf, TSAClaims2002_2017.csv and tsa.sas files and store them in a local folder.
 2. Start SAS Studio.
 3. Within SAS Studio, select a folder (or create a new one) and upload the TSAClaims2002_2017.csv and tsa.sas files.
 4. Inspect the code and run it.
 
-The ClaimReport.pdf file contains the answers to the questions in the Requirements.pdf file.
+The ClaimReports.pdf file contains the answers to the questions in the Requirements.pdf file.
