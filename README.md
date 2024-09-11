@@ -32,4 +32,4 @@ To run the TSA Claims Data Analysis code, you need an active account for either 
 3. Within SAS Studio, select a folder (or create a new one) and upload the TSAClaims2002_2017.csv and tsa.sas files.
 4. Inspect the code and run it.
 
-The ClaimReport-pdf file contains the answers to the questions in the Requirements.pdf file.
+The ClaimReport.pdf file contains the answers to the questions in the Requirements.pdf file.
