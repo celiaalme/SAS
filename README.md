@@ -1,6 +1,6 @@
 # CASE STUDY 1: ANALYZE UNITED STATES TSA CLAIMS DATA
 ## CASE STUDY OVERVIEW
-### BUSSINESS SCENARIO
+#### BUSSINESS SCENARIO
 We’ve been asked to prepare and analyze data from the _Transportation Security Administration_ (TSA). The TSA is an agency of the US Department of Homeland Security that has authority over the security of the traveling public.
 
 Claims are filed if travelers are injured, or their property is lost or damaged during the screening process at an airport. We have data claims files between 2002 and 2017. 
@@ -25,4 +25,9 @@ The CSV file has 14 columns and over 220,855 rows.
 To conduct the bussiness task correctly, we will be asked to follow a series of requirements, which are displayed in a pdf file in the repositorty. 
 
 ## PREREQUISITES
-To run the TSA Claims Data Analysis program, you need an active account for either SAS® OnDemand for Academics or SAS® Viya. These platforms provide the necessary environment for executing SAS programs and analysing the data.
+To run the TSA Claims Data Analysis code, you need an active account for either [SAS® OnDemand for Academics](https://welcome.oda.sas.com) or [SAS® Viya](https://www.sas.com/en_au/software/viya.html). Also, you'll need to download some database files required for the program to run the code. To do so: 
+
+1. Download the Requirements.pdf, ClaimReports.pdf, TSAClaims2002_2017.csv and tsa.sas files and store them in a local folder.
+2. Start SAS Studio.
+3. Within SAS Studio, select a folder (or create a new one) and upload the TSAClaims2002_2017.csv and tsa.sas files.
+4. Inspect the code and (maybe) run it. 
