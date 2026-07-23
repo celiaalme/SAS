@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_tsa_claims",
+  "source_file": "tsa.sas",
+  "source_blob_sha": "3b5c43aa09b2d09b57988cab26c57de60cd26ab1",
+  "source_commit": "4d299b99886aaff609de3ffc1848fd5ee7351311",
+  "notes": "TSA claims case study: full tsa.sas pipeline (PROC IMPORT->PRINT/CONTENTS/FREQ, PROC SORT nodupkey, cleaning DATA step with recodes/date-issue flagging/formats/labels, ODS PDF report with PROC FREQ freqplots + PROC MEANS, &StateName macro). External OnDemand PROC IMPORT replaced by an inline DATALINES load of an 80-row representative sample drawn from the repo's own TSAClaims2002_2017.csv (incl. 8 Hawaii rows w/ missing Incident_Date to exercise the state-level filter, all recode-target values, 2 dupes for nodupkey); libname and ODS PDF paths made relative. All cleaning/analysis/reporting logic unchanged."
+}

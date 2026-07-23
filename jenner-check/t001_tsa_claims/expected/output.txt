@@ -1,0 +1,192 @@
+
+ Claim_Number  Airport_Code                                      Airport_Name                               Claim_Type       Claim_Site                                                                                                        Item_Category       Disposition   StateName  State        County           City  Date_Received  Incident_Date  Close_Amount
+-------------  ------------  ------------------------------------------------  ---------------------------------------  ---------------  -------------------------------------------------------------------------------------------------------------------  ----------------  ----------  -----  ------------  -------------  -------------  -------------  ------------
+2005062787294  HNL           Honolulu International Airport                    Passenger Property Loss                  Checked Baggage  Other                                                                                                                                  HAWAII      HI     HONOLULU      HONOLULU               16242              .             .
+2004101364925  HNL           Honolulu International Airport                    Property Damage                          Checked Baggage  Other                                                                                                                                  HAWAII      HI     HONOLULU      HONOLULU               16323              .             0
+0115033M       HNL           Honolulu International Airport                                                             Checked Baggage  Clothing - Shoes, belts, accessories, etc.                                                                           Settle            HAWAII      HI     HONOLULU      HONOLULU               16085              .           138
+0506124L       HNL           Honolulu International Airport                    Property Damage                          Checked Baggage  Luggage (all types including footlockers)                                                                            Settle            HAWAII      HI     HONOLULU      HONOLULU               15831              .            50
+1117499M       HNL           Honolulu International Airport                    Passenger Property Loss                  Checkpoint       Cameras - Digital                                                                                                    Deny              HAWAII      HI     HONOLULU      HONOLULU               16026              .             0
+2005062487119  HNL           Honolulu International Airport                                                             Checked Baggage  Luggage (all types including footlockers)                                                                                              HAWAII      HI     HONOLULU      HONOLULU               16610              .             .
+2005120797191  KOA           Kona International                                Passenger Property Loss                  Checked Baggage  Eyeglasses - (including contact lenses)                                                                                                HAWAII      HI     HAWAII        KAILUA/KONA            16762              .             .
+2004061756133  KOA           Kona International                                Passenger Property Loss                  Checkpoint       Cameras - Digital                                                                                                                      HAWAII      HI     HAWAII        KAILUA/KONA            16204              .             .
+2012112098793  HNL           Honolulu International Airport                    Passenger Property Loss                  Checked Baggage  Baggage/Cases/Purses                                                                                                 Approve in Full   HAWAII      HI     HONOLULU      HONOLULU               19275          19267            10
+2012100197302  HNL           Honolulu International Airport                    Passenger Property Loss                  Checked Baggage  Clothing                                                                                                             Approve in Full   HAWAII      HI     HONOLULU      HONOLULU               19226          19185         43.81
+2013012400229  HNL           Honolulu International Airport                    Passenger Property Loss                  Checked Baggage  Personal Electronics                                                                                                 Deny              HAWAII      HI     HONOLULU      HONOLULU               19382          19340             0
+2012071295343  HNL           Honolulu International Airport                    Property Damage                          Checked Baggage  Food & Drink                                                                                                         Deny              HAWAII      HI     HONOLULU      HONOLULU               19151          19135             0
+2013021401450  HNL           Honolulu International Airport                    Property Damage                          Checkpoint       Clothing                                                                                                             Settle            HAWAII      HI     HONOLULU      HONOLULU               19380          19377        153.42
+2013021301409  HNL           Honolulu International Airport                    Passenger Property Loss                  Checked Baggage  Travel Accessories                                                                                                   Deny              HAWAII      HI     HONOLULU      HONOLULU               19380          19312             0
+2013012500364  HNL           Honolulu International Airport                    Property Damage                          Checked Baggage  Sporting Equipment & Supplies                                                                                        Approve in Full   HAWAII      HI     HONOLULU      HONOLULU               19277          19223        261.78
+2013022201931  HNL           Honolulu International Airport                    Property Damage                          Checked Baggage  -                                                                                                                    Deny              HAWAII      HI     HONOLULU      HONOLULU               19403          19387             0
+2012110798415  HNL           Honolulu International Airport                    Passenger Property Loss                  Checked Baggage  Personal Electronics                                                                                                 Deny              HAWAII      HI     HONOLULU      HONOLULU               19260          19258             0
+2012051593943  HNL           Honolulu International Airport                    Property Damage                          Checked Baggage  Baggage/Cases/Purses                                                                                                 Deny              HAWAII      HI     HONOLULU      HONOLULU               19106          19095             0
+2017083142571  -             -                                                 Property Damage/Personal Injury          -                Computer & Accessories; Personal Electronics                                                                         *Insufficient                                                             21062          20886             .
+2017110745011  -             -                                                 Property Damage/Personal Injury          Checkpoint       Personal Electronics                                                                                                 *Insufficient                                                             21130          21060             .
+2018011146756  -             -                                                 Passenger Property Loss/Personal Injury  Checked Baggage  Clothing; Jewelry & Watches; Medical/Science                                                                         *Insufficient                                                             21150          20938             .
+2017061340526  ATL           Hartsfield-Jackson Atlanta International Airport  Passenger Property Loss/Personal Injury  Checkpoint       Baggage/Cases/Purses                                                                                                 In Review         GEORGIA     GA     FULTON        ATLANTA                21152          20919             .
+2017122646293  BWI           Baltimore/Washington Intl Thurgood Marshall       Passenger Property Loss/Personal Injury  Checkpoint       Cosmetics & Grooming                                                                                                 In Review         MARYLAND    MD     ANNE ARUNDEL  BALTIMORE              21174          21157             .
+2018010946649  BWI           Baltimore/Washington Intl Thurgood Marshall       Passenger Property Loss/Personal Injury  Checkpoint       Other                                                                                                                Closed: Canceled  MARYLAND    MD     ANNE ARUNDEL  BALTIMORE              21179          21157             .
+2017042138771  ABQ           Albuquerque International Sunport Airport         Property Damage                          Checked Baggage  Other                                                                                                                Closed: Canceled  NEW MEXICO  NM     BERNALILLO    ALBUQUERQUE            20874          20868             .
+2017051839725  ACY           Atlantic City International                       Property Damage                          Checked Baggage  Audio/Video                                                                                                          Closed: Canceled  NEW JERSEY  NJ     ATLANTIC      ATLANTIC CITY          20887          20884             .
+2017111445118  ACY           Atlantic City International                       Complaint                                Other            -                                                                                                                    Closed: Canceled  NEW JERSEY  NJ     ATLANTIC      ATLANTIC CITY          21111          21024             .
+2017042138758  AIA           Alliance Municipal Airport                        -                                        -                -                                                                                                                    Closed: Canceled  NEBRASKA    NE     BOX BUTTE     ALLIANCE               20930          20871             .
+2017110745018  ASE           Aspen Pitkin County Sardy Field                   Passenger Property Loss                  -                -                                                                                                                    Closed: Canceled  COLORADO    CO     PITKIN        ASPEN                  21130          21128             .
+2017050139146  ATL           Hartsfield-Jackson Atlanta International Airport  Passenger Property Loss                  Checkpoint       Computer & Accessories                                                                                               Closed: Canceled  GEORGIA     GA     FULTON        ATLANTA                20891          20888             .
+2010031769653  -             -                                                 Passenger Property Loss                  Checked Baggage  Clothing; Cosmetics & Grooming; Jewelry & Watches                                                                    -                                                                         18329          18320             .
+2010020468312  -             -                                                 -                                        -                -                                                                                                                    -                                                                         18297          18297             .
+2010022268640  -             -                                                 Passenger Property Loss                  Checked Baggage  Other                                                                                                                -                                                                         18296          18285             .
+2010030969294  -             -                                                 -                                        -                -                                                                                                                    -                                                                         18326          18265             .
+2010032570047  -             -                                                 Passenger Property Loss                  Checked Baggage  Other                                                                                                                -                                                                         18343          18324             .
+2010020368206  -             -                                                 Property Damage                          -                Baggage/Cases/Purses                                                                                                 -                                                                         18290          18266             .
+2010032269879  -             -                                                 -                                        -                Computer & Accessories                                                                                               -                                                                         18336          18330             .
+2010021368379  -             -                                                 -                                        -                -                                                                                                                    -                                                                         18297          18264             .
+2006081611123                                                                  Passenger Property Loss                  Checked Baggage  Candles - Decorative and other; Clothing - Shoes, belts, accessories, etc.; Dishes, Pottery, Glassware, Plasticware                                                                            17027          17006             .
+2006062108380                                                                  Passenger Property Loss                  Checkpoint       Jewelry - Fine                                                                                                                                                                                 16972          16957             .
+2006062008258                                                                  Passenger Property Loss                  Checked Baggage  Cosmetics - Perfume, toilet articles, medicines, soaps, etc.; Medicines                                                                                                                        16972          16938             .
+2006010699056                                                                  Passenger Property Loss                  Checked Baggage  Other                                                                                                                                                                                          16831          16793             .
+2006032303625                                                                  Property Damage                          Checked Baggage  Luggage (all types including footlockers)                                                                                                                                                      16880          16861             .
+2006081511005                                                                  Property Damage                          Checked Baggage  Locks; Luggage (all types including footlockers)                                                                                                                                               17021              .             .
+2006082111318                                                                  Property Damage                          Checked Baggage  Locks                                                                                                                                                                                          17029          17015             .
+2006070709101                                                                  Passenger Property Loss                  Checkpoint       Jewelry - Fine                                                                                                                                                                                 16988          16979             .
+2006041704637                                                                  Passenger Property Loss                  Checked Baggage  Eyeglasses - (including contact lenses)                                                                                                                                                        16898              .             .
+2006061408002                                                                                                                            Luggage (all types including footlockers)                                                                                                                                                      16966              .             .
+2006032303589                                                                  Passenger Property Loss                  Checked Baggage  Jewelry - Fine                                                                                                                                                                                 16880              .             .
+2006090611995                                                                  Passenger Property Loss                  Checked Baggage  Other                                                                                                                                                                                          17021              .             .
+2006051506283                                                                  Property Damage                          Checked Baggage  Luggage (all types including footlockers)                                                                                                                                                      16931              .             .
+2006042405039                                                                  Passenger Property Loss                  Checked Baggage  Currency                                                                                                                                                                                       16908              .             .
+2006050305680                                                                  Property Damage                          Checked Baggage  Watches - Expensive more than $100                                                                                                                                                             16918              .             .
+2006060607460                                                                  Passenger Property Loss                  Checkpoint       Other                                                                                                                                                                                          16954              .             .
+2006072109924                                                                  Passenger Property Loss                  Checkpoint       DVD/CD Players; Other                                                                                                                                                                          17003          16996             .
+2006081010689                                                                  Property Damage                          Checked Baggage  Luggage (all types including footlockers)                                                                                                                                                      17016          16866             .
+2006042505214                                                                  Property Damage                          Checkpoint       Cell Phones                                                                                                                                                                                    16905          16896             .
+2006081110819                                                                  Passenger Property Loss                  Checked Baggage  Other                                                                                                                                                                                          17022          17014             .
+2006051806567                                                                  Property Damage                          Checked Baggage  Electrical and Gas Appliances Minor - $200 or less (humidifiers, tv's, etc)                                                                                                                    16937          16924             .
+2006040504066                                                                  Passenger Property Loss                  Checked Baggage  Other                                                                                                                                                                                          16877          16855             .
+2006073110251                                                                  Passenger Property Loss                  Checked Baggage  Clothing - Shoes, belts, accessories, etc.                                                                                                                                                     17008          17001             .
+2006042505160                                                                  Passenger Property Loss                  Checkpoint       Eyeglasses - (including contact lenses)                                                                                                                                                        16909          16863             .
+2006020801205                                                                  Passenger Property Loss                  Checked Baggage  Cameras - Digital                                                                                                    Deny                                                                      16834          16828             0
+2006030302477                                                                  Passenger Property Loss                  Checkpoint                                                                                                                                                                                                      16859          16829             .
+2006030702656                                                                  Property Damage                          Checkpoint       Other                                                                                                                                                                                          16861          16794             .
+2006042405125                                                                  Property Damage                          Checked Baggage  Luggage (all types including footlockers)                                                                                                                                                      16909          16889             .
+2006061407915                                                                  Passenger Property Loss                  Checked Baggage  MP3 Players-(iPods, etc)                                                                                                                                                                       16965          16941             .
+2006062608528                                                                  Property Damage                          Checked Baggage  Luggage (all types including footlockers)                                                                                                                                                      16975          16948             .
+2006050905781                                                                  Property Damage                          Checked Baggage                                                                                                                                                                                                 16919          16899             .
+2006020200854                                                                                                                            DVD/CD Players                                                                                                                                                                                 16828          16800             .
+2006020701013                                                                  Property Damage                          Checked Baggage  Other                                                                                                                                                                                          16832          16789             0
+2006021301461                                                                  Property Damage                          Checkpoint       Other                                                                                                                                                                                          16839          16821             .
+2006051906611                                                                  Passenger Property Loss                  Checked Baggage  Cameras - Digital; Cell Phones                                                                                                                                                                 16937          16935             .
+2006041904786                                                                  Passenger Property Loss                  Checked Baggage  Other                                                                                                                                                                                          16904          16902             0
+2006062108424                                                                  Property Damage                          Checked Baggage  Mirrors (including frames)                                                                                                                                                                     16972          16963             .
+2006060607469                                                                  Property Damage                          Checkpoint       Computer - Laptop                                                                                                                                                                              16954          16877             .
+2006081511091                                                                  Passenger Property Loss                  Checkpoint       Eyeglasses - (including contact lenses)                                                                                                                                                        17024          16951             .
+2006021001404                                                                  Property Damage                          Checked Baggage  Musical Instruments - Other - Over $250                                                                                                                                                        16834          16824             .
+0506124L       HNL           Honolulu International Airport                    Property Damage                          Checked Baggage  Luggage (all types including footlockers)                                                                            Settle            HAWAII      HI     HONOLULU      HONOLULU               15831              .            50
+1117499M       HNL           Honolulu International Airport                    Passenger Property Loss                  Checkpoint       Cameras - Digital                                                                                                    Deny              HAWAII      HI     HONOLULU      HONOLULU               16026              .             0
+
+
+PROC CONTENTS
+-------------------------------------------------------------------------------
+
+Data Set Name: tsa.claims_cleaned
+Observations:  80
+Variables:     14
+
+Variables (in alphabetical order):
+
+  #  Variable       Type    Len  Format  Label
+---  -------------  ----  -----  ------  -----
+  1  Airport_Code   Char      8          
+  2  Airport_Name   Char     60          
+  3  City           Char     30          
+  4  Claim_Number   Char     20          
+  5  Claim_Site     Char     30          
+  6  Claim_Type     Char     50          
+  7  Close_Amount    Num      8          
+  8  County         Char     30          
+  9  Date_Received   Num      8          
+ 10  Disposition    Char     30          
+ 11  Incident_Date   Num      8          
+ 12  Item_Category  Char    130          
+ 13  State          Char     20          
+ 14  StateName      Char     30          
+
+-------------------------------------------------------------------------------
+
+                                                   The FREQ Procedure
+
+                                                                     Cumulative    Cumulative
+Claim_Type                                 Frequency    Percent     Frequency      Percent
+------------------------------------------------------------------------------------------------
+-                                                  5      6.58            5         6.58
+Complaint                                          1      1.32            6         7.89
+Passenger Property Loss                           36     47.37           42        55.26
+Passenger Property Loss/Personal Injury            4      5.26           46        60.53
+Property Damage                                   28     36.84           74        97.37
+Property Damage/Personal Injury                    2      2.63           76       100.00
+
+                                             Cumulative    Cumulative
+Claim_Site         Frequency    Percent     Frequency      Percent
+------------------------------------------------------------------------
+-                          8     10.26            8        10.26
+Checked Baggage           49     62.82           57        73.08
+Checkpoint                20     25.64           77        98.72
+Other                      1      1.28           78       100.00
+
+                                              Cumulative    Cumulative
+Disposition         Frequency    Percent     Frequency      Percent
+-------------------------------------------------------------------------
+*Insufficient               3      8.33            3         8.33
+-                           8     22.22           11        30.56
+Approve in Full             3      8.33           14        38.89
+Closed: Canceled            7     19.44           21        58.33
+Deny                        9     25.00           30        83.33
+In Review                   2      5.56           32        88.89
+Settle                      4     11.11           36       100.00
+                                                      Date Issues
+
+                                                   The FREQ Procedure
+
+Date Issues     Frequency
+--------------------------
+                       61
+Needs Review           17
+                                                     Claims by Year
+
+                                                   The FREQ Procedure
+
+Incident Date    Frequency
+---------------------------
+2005                     4
+2006                    27
+2010                     8
+2012                     8
+2013                     2
+2017                    12
+                                   Hawaii's Claim Types, Claim Sites and Dispositions
+
+                                                   The FREQ Procedure
+
+Claim Type                 Frequency
+-------------------------------------
+Passenger Property Loss            4
+Property Damage                    2
+Unknown                            2
+
+Claim Site         Frequency
+-----------------------------
+Checked Baggage            6
+Checkpoint                 2
+
+Disposition    Frequency
+-------------------------
+Unknown                5
+Settle                 2
+Deny                   1
+                                                 Close Amount in Hawaii
+
+                                                  The MEANS Procedure
+
+ Variable      Label                  Mean     Minimum     Maximum            Sum
+ --------------------------------------------------------------------------------
+ Close_Amount  Close Amount         $47.00       $0.00     $138.00        $188.00
+ --------------------------------------------------------------------------------
+
