@@ -1,0 +1,20 @@
+{
+  "_captured_at": "2026-07-23T15:08:19.146281Z",
+  "_captured_run_id": "r_7c65f4e905404bfa9898e1084795240e",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote tsa.claims_cleaned (80 rows, 14 columns).",
+    "NOTE: 2 duplicate observations were deleted.",
+    "NOTE: Wrote tsa.claims_clean (78 rows, 13 columns).",
+    "NOTE: Read 80 rows from DATALINES."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

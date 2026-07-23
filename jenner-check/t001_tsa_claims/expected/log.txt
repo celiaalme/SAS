@@ -1,0 +1,63 @@
+NOTE: Option OBS changed to 100.
+NOTE: Library TSA assigned path=..
+NOTE: Option VALIDVARNAME changed to V7.
+NOTE: DATA tsa.claims_cleaned
+
+NOTE: Processing inline DATALINES (80 lines)
+
+NOTE: Read 80 rows from DATALINES.
+NOTE: Wrote tsa.claims_cleaned (80 rows, 14 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=tsa.claims_cleaned
+
+NOTE: PROC PRINT completed: 80 observations printed, 14 variables
+NOTE: PROC CONTENTS data=tsa.claims_cleaned
+
+NOTE: PROC CONTENTS completed: 80 observations, 14 variables
+NOTE: PROC FREQ
+NOTE: ODS plot written: freq_claim_type.spec.json
+NOTE: ODS plot written: freq_claim_site.spec.json
+NOTE: ODS plot written: freq_disposition.spec.json
+NOTE: PROC FREQ statement used.
+NOTE: PROC SORT data=tsa.claims_cleaned
+
+NOTE: 2 duplicate observations were output to DUPOUT dataset.
+NOTE: 2 duplicate observations were deleted.
+NOTE: Read 80 rows from tsa.claims_cleaned.
+NOTE: Wrote tsa.claims_nodup (78 rows, 14 columns).
+NOTE: PROC SORT statement used.
+NOTE: PROC SORT data=tsa.claims_nodup
+
+NOTE: Read 78 rows from tsa.claims_nodup.
+NOTE: Wrote tsa.claims_nodup (78 rows, 14 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA tsa.claims_clean
+
+
+NOTE: Read 78 rows from tsa.claims_nodup.
+NOTE: Wrote tsa.claims_clean (78 rows, 13 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: Option TITLE changed to Date Issues.
+NOTE: PROC FREQ
+NOTE: ODS plot written: freq_date_issues.spec.json
+NOTE: PROC FREQ statement used.
+NOTE: ODS Graphics is ON (width=640px, height=480px, format=SVG).
+NOTE: Option TITLE changed to Claims by Year.
+NOTE: PROC FREQ
+NOTE: ODS plot written: freq_incident_date.spec.json
+NOTE: PROC FREQ statement used.
+NOTE: Option TITLE changed to Hawaii's Claim Types, Claim Sites and Dispositions.
+NOTE: PROC FREQ
+NOTE: ODS plot written: freq_claim_type.spec.json
+NOTE: ODS plot written: freq_claim_site.spec.json
+NOTE: ODS plot written: freq_disposition.spec.json
+NOTE: PROC FREQ statement used.
+NOTE: Option TITLE changed to Close Amount in Hawaii.
+NOTE: PROC MEANS
+NOTE: PROC MEANS statement used.
+NOTE: ODS PDF: rendering images at 150 DPI.
+NOTE: ODS PDF: wrote report to /tmp/work/r_7c65f4e905404bfa9898e1084795240e/ClaimReports.pdf.
